@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            Telerik.WinControls.UI.RadListDataItem radListDataItem2 = new Telerik.WinControls.UI.RadListDataItem();
             this.radRibbonBar1 = new Telerik.WinControls.UI.RadRibbonBar();
             this.ribbonTab1 = new Telerik.WinControls.UI.RibbonTab();
             this.radRibbonBarGroup1 = new Telerik.WinControls.UI.RadRibbonBarGroup();
@@ -254,7 +255,7 @@
             this.radRibbonBar1.OptionsButton.Text = "Options";
             this.radRibbonBar1.Size = new System.Drawing.Size(972, 162);
             this.radRibbonBar1.TabIndex = 0;
-            this.radRibbonBar1.Text = "Geobem Beta 1.0";
+            this.radRibbonBar1.Text = "Form1";
             // 
             // ribbonTab1
             // 
@@ -1279,12 +1280,14 @@
             // 
             // radDropDownList1
             // 
+            radListDataItem2.Text = "MAJOR";
+            this.radDropDownList1.Items.Add(radListDataItem2);
             this.radDropDownList1.Location = new System.Drawing.Point(86, 28);
             this.radDropDownList1.Name = "radDropDownList1";
             this.radDropDownList1.ReadOnly = true;
             this.radDropDownList1.Size = new System.Drawing.Size(145, 20);
             this.radDropDownList1.TabIndex = 0;
-            this.radDropDownList1.Text = "Majör";
+            this.radDropDownList1.Text = "Seçiniz";
             // 
             // Form1
             // 
