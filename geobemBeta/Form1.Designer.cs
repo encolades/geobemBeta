@@ -29,7 +29,47 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            Telerik.WinControls.UI.RadListDataItem radListDataItem1 = new Telerik.WinControls.UI.RadListDataItem();
             Telerik.WinControls.UI.RadListDataItem radListDataItem2 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem3 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem4 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem5 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem6 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem7 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem8 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem9 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem10 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem11 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem12 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem13 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem14 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem15 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem16 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem17 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem18 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem19 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem20 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem21 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem22 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem23 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem24 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem25 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem26 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem27 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem28 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem29 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem30 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem31 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem32 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem33 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem34 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem35 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem36 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem37 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem38 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem39 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem40 = new Telerik.WinControls.UI.RadListDataItem();
+            Telerik.WinControls.UI.RadListDataItem radListDataItem41 = new Telerik.WinControls.UI.RadListDataItem();
             this.radRibbonBar1 = new Telerik.WinControls.UI.RadRibbonBar();
             this.ribbonTab1 = new Telerik.WinControls.UI.RibbonTab();
             this.radRibbonBarGroup1 = new Telerik.WinControls.UI.RadRibbonBarGroup();
@@ -1246,12 +1286,39 @@
             // 
             // radDropDownList3
             // 
+            radListDataItem1.Text = "50";
+            radListDataItem2.Text = "60";
+            radListDataItem3.Text = "70";
+            radListDataItem4.Text = "80";
+            radListDataItem5.Text = "90";
+            radListDataItem6.Text = "100";
+            radListDataItem7.Text = "110";
+            radListDataItem8.Text = "120";
+            radListDataItem9.Text = "130";
+            radListDataItem10.Text = "140";
+            radListDataItem11.Text = "150";
+            radListDataItem12.Text = "160";
+            radListDataItem13.Text = "170";
+            radListDataItem14.Text = "180";
+            this.radDropDownList3.Items.Add(radListDataItem1);
+            this.radDropDownList3.Items.Add(radListDataItem2);
+            this.radDropDownList3.Items.Add(radListDataItem3);
+            this.radDropDownList3.Items.Add(radListDataItem4);
+            this.radDropDownList3.Items.Add(radListDataItem5);
+            this.radDropDownList3.Items.Add(radListDataItem6);
+            this.radDropDownList3.Items.Add(radListDataItem7);
+            this.radDropDownList3.Items.Add(radListDataItem8);
+            this.radDropDownList3.Items.Add(radListDataItem9);
+            this.radDropDownList3.Items.Add(radListDataItem10);
+            this.radDropDownList3.Items.Add(radListDataItem11);
+            this.radDropDownList3.Items.Add(radListDataItem12);
+            this.radDropDownList3.Items.Add(radListDataItem13);
+            this.radDropDownList3.Items.Add(radListDataItem14);
             this.radDropDownList3.Location = new System.Drawing.Point(86, 99);
             this.radDropDownList3.Name = "radDropDownList3";
             this.radDropDownList3.ReadOnly = true;
             this.radDropDownList3.Size = new System.Drawing.Size(145, 20);
             this.radDropDownList3.TabIndex = 4;
-            this.radDropDownList3.Text = "50";
             // 
             // radLabel2
             // 
@@ -1263,12 +1330,35 @@
             // 
             // radDropDownList2
             // 
+            radListDataItem15.Text = "C";
+            radListDataItem16.Text = "C#";
+            radListDataItem17.Text = "D";
+            radListDataItem18.Text = "D#";
+            radListDataItem19.Text = "E";
+            radListDataItem20.Text = "F";
+            radListDataItem21.Text = "F#";
+            radListDataItem22.Text = "G";
+            radListDataItem23.Text = "G#";
+            radListDataItem24.Text = "A";
+            radListDataItem25.Text = "A#";
+            radListDataItem26.Text = "B";
+            this.radDropDownList2.Items.Add(radListDataItem15);
+            this.radDropDownList2.Items.Add(radListDataItem16);
+            this.radDropDownList2.Items.Add(radListDataItem17);
+            this.radDropDownList2.Items.Add(radListDataItem18);
+            this.radDropDownList2.Items.Add(radListDataItem19);
+            this.radDropDownList2.Items.Add(radListDataItem20);
+            this.radDropDownList2.Items.Add(radListDataItem21);
+            this.radDropDownList2.Items.Add(radListDataItem22);
+            this.radDropDownList2.Items.Add(radListDataItem23);
+            this.radDropDownList2.Items.Add(radListDataItem24);
+            this.radDropDownList2.Items.Add(radListDataItem25);
+            this.radDropDownList2.Items.Add(radListDataItem26);
             this.radDropDownList2.Location = new System.Drawing.Point(86, 64);
             this.radDropDownList2.Name = "radDropDownList2";
             this.radDropDownList2.ReadOnly = true;
             this.radDropDownList2.Size = new System.Drawing.Size(145, 20);
             this.radDropDownList2.TabIndex = 2;
-            this.radDropDownList2.Text = "C";
             // 
             // radLabel1
             // 
@@ -1280,14 +1370,41 @@
             // 
             // radDropDownList1
             // 
-            radListDataItem2.Text = "MAJOR";
-            this.radDropDownList1.Items.Add(radListDataItem2);
+            radListDataItem27.Text = "Majör";
+            radListDataItem28.Text = "Natural Minör";
+            radListDataItem29.Text = "Melodik Minör";
+            radListDataItem30.Text = "Armonik Minör";
+            radListDataItem31.Text = "Pentatonik-1";
+            radListDataItem32.Text = "Pentatonik-4";
+            radListDataItem33.Text = "Pentatonik-5";
+            radListDataItem34.Text = "Diminished";
+            radListDataItem35.Text = "Blues";
+            radListDataItem36.Text = "Jazz";
+            radListDataItem37.Text = "Mod-2";
+            radListDataItem38.Text = "Mod-3";
+            radListDataItem39.Text = "Mod-4";
+            radListDataItem40.Text = "Mod-5";
+            radListDataItem41.Text = "Mod-7";
+            this.radDropDownList1.Items.Add(radListDataItem27);
+            this.radDropDownList1.Items.Add(radListDataItem28);
+            this.radDropDownList1.Items.Add(radListDataItem29);
+            this.radDropDownList1.Items.Add(radListDataItem30);
+            this.radDropDownList1.Items.Add(radListDataItem31);
+            this.radDropDownList1.Items.Add(radListDataItem32);
+            this.radDropDownList1.Items.Add(radListDataItem33);
+            this.radDropDownList1.Items.Add(radListDataItem34);
+            this.radDropDownList1.Items.Add(radListDataItem35);
+            this.radDropDownList1.Items.Add(radListDataItem36);
+            this.radDropDownList1.Items.Add(radListDataItem37);
+            this.radDropDownList1.Items.Add(radListDataItem38);
+            this.radDropDownList1.Items.Add(radListDataItem39);
+            this.radDropDownList1.Items.Add(radListDataItem40);
+            this.radDropDownList1.Items.Add(radListDataItem41);
             this.radDropDownList1.Location = new System.Drawing.Point(86, 28);
             this.radDropDownList1.Name = "radDropDownList1";
             this.radDropDownList1.ReadOnly = true;
             this.radDropDownList1.Size = new System.Drawing.Size(145, 20);
             this.radDropDownList1.TabIndex = 0;
-            this.radDropDownList1.Text = "Seçiniz";
             // 
             // Form1
             // 
